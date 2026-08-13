@@ -1,5 +1,15 @@
 # Deepler, Multilang Machine Translator for Moodle
 
+> **ℹ️ Fork-Hinweis / Fork notice**
+>
+> Dieses Repository ist ein Fork von [brunobaudry/moodle-local_deepler](https://github.com/brunobaudry/moodle-local_deepler)
+> (Basis: Release **v1.9.9.3**), gepflegt von der **NP Nüsse Arbeitssicherheit GmbH**.
+> Das Dokument unten ist die unveränderte Upstream-Dokumentation.
+> **Was in diesem Fork abweicht, steht in [README-FORK.md](README-FORK.md).**
+>
+> *This repository is a fork of the upstream project. See [README-FORK.md](README-FORK.md) for the list of
+> fork-specific changes (written in German).*
+
 [![Moodle Plugin CI](https://github.com/brunobaudry/moodle-local_deepler/actions/workflows/moodle-ci.yml/badge.svg)](https://github.com/brunobaudry/moodle-local_deepler/actions/workflows/moodle-ci.yml)
 [![Supported](https://img.shields.io/badge/Moodle-4.2--5.0-orange.svg)](https://github.com/brunobaudry/moodle-local_deepler/actions/workflows/moodle-ci.yml)
 [![PHP Support](https://img.shields.io/badge/php-8.2_--_8.4-blue)](https://github.com/brunobaudry/moodle-local_deepler/actions/workflows/moodle-ci.yml)
